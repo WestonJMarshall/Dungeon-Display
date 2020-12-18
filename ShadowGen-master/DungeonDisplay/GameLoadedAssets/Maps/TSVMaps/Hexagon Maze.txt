@@ -1,0 +1,73 @@
+																											F																										F																											
+																											F																										F																											
+																											F																										F																											
+																											F																										F																											
+																											DB																										DB																											
+																							F	F	F	DR	F	F	F	F	F		F	F	F	F	F		F	F	F	F	F	F	F	F	F	DR	F	F	F	F	F		F	F	F																							
+																							DB				F	F	F	F	F		F				F						F						F	F	F	F	F		F		DB																							
+																					F	F	F		F		F	F	F	F	F	DL	F	F	F		F	F	F	F	F	F	F		F	F	F		F	F	F	F	F		F		F	F	F																					
+																					F	F	F		DB				DT				F	F	F										F	F	F		DT								F	F	F																					
+																					F	F	F		F	F	F	DL	F	F	F	DR	F	F	F		F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F		F	F	F																					
+																									F	F	F		F								F	F	F	F	F	F	F				DT				F		F	F	F				DT																					
+																			F		F	F	F		F	F	F		F		F	F	F	DL	F		F	F	F	F	F	F	F		F		F	F	F		F	DR	F	F	F	DL	F	F	F		F																			
+																			F		F	F	F								F	F	F		F		F	F	F	F	F	F	F		F		F	F	F								F	F	F		F																			
+																			F		F	F	F		F	F	F	F	F	DL	F	F	F		F		F	F	F	F	F	F	F		F		F	F	F	DL	F	F	F	F	F		F	F	F		F																			
+																			DB		F	F	F		F	F	F	F	F										DT						F						F	F	F	F	F		F	F	F		DB																			
+																	F	F	F		F	F	F		F	F	F	F	F	DL	F	F	F		F	F	F	F	F	F	F		F	F	F		F	F	F	DL	F	F	F	F	F		F	F	F		F	F	F																	
+																	F	F	F		DT		DT		DT				F		F	F	F		F		F						DB		F		F	F	F								DT				F	F	F																	
+															F		F	F	F	DL	F		F	F	F		F	F	F		F	F	F	DL	F		F	F	F	F	F	F	F		F	F	F	F	F		F	F	F	F	F		F	F	F		F	F	F		F															
+															F		F	F	F		F						DB										F	F	F	F	F	F	F		F										F				F		F	F	F		F															
+															F		F	F	F		F	F	F	F	F		F	F	F		F	F	F	F	F		F	F	F	F	F	F	F		F	F	F	F	F		F	F	F		F	F	F	F	F		F	F	F	F	F															
+															F						F				F		F	F	F		F						F	F	F	F	F	F	F						F		F	F	F		F										F															
+													F	F	F	F	F		F	F	F	F	F		F		F	F	F		F		F	F	F	DL	F	F	F	F	F	F	F		F	F	F		F		F	F	F		F		F	F	F	F	F		F	F	F	F	F													
+																	F		F	F	F	F	F		F		F	F	F		F		F	F	F				DT						F	F	F		F		F	F	F		F		F	F	F	F	F		F				F													
+													F	F	F		F	F	F	F	F	F	F		F		F	F	F		F		F	F	F		F	F	F	DL	F	F	F	DL	F	F	F		F	DR	F	F	F		F		F	F	F	F	F		F		F	F	F													
+													F	F	F		F								F		DT				F		F	F	F		F	F	F		F	F	F		F	F	F								F				DT		DT		F		F	F	F													
+F	F	F	F	F	F	F	F	F	F	F	F	DR	F	F	F	DL	F	F	F		F	F	F	F	F		F	F	F		F	DR	F	F	F	DL	F	F	F		F	F	F		F	F	F	DL	F	F	F	F	F		F		F	F	F		F	F	F		F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F
+											F				F						F						F	F	F		F						F	F	F		F	F	F		DT						F	F	F		F								DB						F											
+											F	DR	F	F	F		F	F	F		F	F	F	F	F	F	F	F	F		F	F	F	F	F		F	F	F		F	F	F		F	F	F	F	F		F	F	F		F	F	F	F	F	DR	F	F	F		F	F	F		F											
+											DB		F	F	F		F	F	F														DB		F		F				DT				F								DT								F	F	F		F	F	F													
+									F	F	F	DL	F	F	F	DL	F	F	F	DL	F	F	F		F	F	F	F	F		F	F	F		F		F	F	F	F	F		F	F	F		F	F	F	DL	F		F	F	F	DR	F	F	F		F	F	F		F	F	F		F	F	F									
+									F	F	F		DT				F	F	F		F	F	F		F				F		F	F	F										F				F	F	F		F						F	F	F		F	F	F		DT				F	F	F									
+							F		F	F	F		F	F	F	DR	F	F	F		F	F	F		F		F	F	F	DR	F	F	F		F	F	F	F	F		F	F	F	F	F	F	F	F	F		F	F	F	F	F		F	F	F	F	F	F	F		F	F	F	DR	F	F	F	DL	F							
+							DB								DB						F		DT		F		F				F				F	F	F	F	F		F	F	F	F	F		DT										F												DT		DT									
+							F	F	F		F	DR	F	F	F		F		F	F	F		F	F	F	F	F		F	F	F		F		F	F	F	F	F	DL	F	F	F	F	F		F		F	F	F		F	F	F	F	F	DL	F	F	F		F		F	F	F		F		F	F	F							
+							F	F	F		F		F	F	F		F		F	F	F		F	F	F	F	F		F	F	F		F		F	F	F	F	F		F	F	F	F	F		F		F	F	F		F	F	F	F	F		F	F	F		F		F	F	F		F		F	F	F							
+					F		F	F	F		F		F	F	F		F		F	F	F	DL	F	F	F	F	F		F	F	F	DL	F		F	F	F	F	F		F	F	F	F	F		F	DR	F	F	F		F	F	F	F	F		F	F	F		F	F	F	F	F		F		F	F	F		F					
+					F		F	F	F		F						F		DT				F	F	F	F	F		F	F	F		F				DT						DT				F		F	F	F		F	F	F	F	F				F		F				DT		F		F	F	F		F					
+					F	DR	F	F	F		F		F	F	F	DL	F		F	F	F	DL	F	F	F	F	F		F	F	F		F		F	F	F	F	F		F	F	F	F	F		F		F	F	F	DL	F	F	F	F	F		F	F	F		F		F	F	F		F		F	F	F	DL	F					
+							F	F	F		F		F	F	F				F	F	F		F	F	F	F	F		F	F	F		F		F	F	F	F	F		F	F	F	F	F		F		F	F	F		F	F	F	F	F		F	F	F		F		F	F	F		F		F	F	F							
+							F	F	F	DL	F		F	F	F	DL	F		F	F	F		F	F	F	F	F		F	F	F		F	DR	F	F	F	F	F		F	F	F	F	F		F		F	F	F		F	F	F	F	F		F	F	F	F	F		F	F	F		F		F	F	F							
+											DB						DB		F				DT		DT										F	F	F	F	F		F	F	F	F	F								DT												DT				DB				F							
+									F	F	F		F	F	F	DR	F	F	F		F	F	F		F	F	F	F	F		F	F	F	DL	F	F	F	F	F		F	F	F	F	F	DL	F	F	F		F	F	F		F		F	F	F	F	F	F	F		F	F	F		F	F	F		F							
+									F	F	F				F		F	F	F		F	F	F				F		F		F	F	F		DT						DT		DT		F		F	F	F		F				F		F	F	F		F	F	F		DB				F	F	F									
+									F	F	F	F	F	F	F		F	F	F		F	F	F	DL	F	F	F		F		F	F	F		F	F	F		F		F	F	F		F		F	F	F	DL	F		SUU	SU	F		F	F	F		F	F	F		F	F	F		F	F	F									
+											DT		F	F	F		F	F	F				DT										DT		F		DB		DB		DB				F										F						F	F	F		F	F	F		DT											
+											F		F	F	F		F	F	F		F	F	F	F	F	F	F	F	F	DL	F	F	F		F		F	F	F		F	F	F		F	F	F	F	F		F	F	F		F	F	F		F	DR	F	F	F		F	F	F		F											
+											F				DT						F						F	F	F		F						F	F	F		F	F	F						F		F	F	F		F		F		F						DT				F											
+F	F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F		F	F	F	F	F		F	F	F		F	DR	F	F	F	DL	F	F	F		F	F	F		F	F	F		F		F	F	F	F	F		F	F	F	F	F		F	DR	F	F	F	DL	F	F	F	F	F	F	F	F	F	F	F	F
+													F	F	F		F		DB						F								F	F	F		F	F	F		F	F	F		F	F	F		F				DT		F		F						F		F	F	F													
+													F	F	F		F		F	F	F	F	F		F		F	F	F		F		F	F	F		F	F	F		F	F	F		F	F	F		F		F	F	F		F		F	F	F	F	F		F		F	F	F													
+													DT				F		F	F	F	F	F		F		F	F	F		F		F	F	F				DT		DT				F	F	F		F		F	F	F		F		F	F	F	F	F		F				DT													
+													F	F	F	F	F		F	F	F	F	F		F		F	F	F		F		F	F	F		F	F	F	F	F	F	F		F	F	F		F		F	F	F	DL	F		F	F	F	F	F		F	F	F	F	F													
+															F								F		F		F	F	F		F						F	F	F	F	F	F	F		DT				F		F	F	F				DT				DT				F															
+															F		F	F	F	DL	F		F	F	F		F	F	F	DL	F	F	F	F	F		F	F	F	F	F	F	F	DL	F	F	F	F	F		F	F	F	DL	F		F	F	F		F	F	F		F															
+															F		F	F	F		F		F												F		F	F	F	F	F	F	F		F										F						F	F	F		F															
+															F		F	F	F		F	F	F		F	F	F	F	F	DR	F	F	F	DL	F	DR	F	F	F	F	F	F	F		F		F	F	F	F	F	F	F	F	F	F	F	F	F	DR	F	F	F	DL	F															
+																	F	F	F										DB		F	F	F		F										F		F	F	F												F	F	F																	
+																	F	F	F		F	F	F		F	F	F	F	F		F	F	F		F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F	F	F	DL	F	F	F		F	F	F																	
+																			DT		F	F	F		F	F	F	F	F																		DT				F	F	F	F	F		F	F	F																					
+																			F		F	F	F	DL	F	F	F	F	F	DL	F	F	F		F		F	F	F	F	F	F	F		F	DR	F	F	F	DL	F	F	F	F	F		F	F	F		F																			
+																			F		F	F	F				F				F	F	F		F		F	F	F	F	F	F	F		SD		F	F	F								F	F	F		F																			
+																			F	DR	F	F	F		F	F	F		F	DR	F	F	F	DL	F	DR	F	F	F	F	F	F	F		SDD		F	F	F		F		F	F	F		F	F	F		F																			
+																					DT				F	F	F		F				DT				F	F	F	F	F	F	F						DT		F		F	F	F		DT																							
+																					F	F	F	DL	F	F	F		F	F	F		F	F	F		F	F	F	F	F	F	F	DL	F	F	F		F	F	F	DR	F	F	F	DL	F	F	F																					
+																					F	F	F				DT						F	F	F				DT						F	F	F						DT				F	F	F																					
+																					F	F	F		F		F	F	F	F	F	DL	F	F	F		F	F	F		F	F	F		F	F	F	DL	F	F	F	F	F		F	F	F	F	F																					
+																							DT		F		F	F	F	F	F						F						F						F	F	F	F	F		F																									
+																							F	F	F	DR	F	F	F	F	F		F	F	F	F	F	F	F	F	F	F	F	F	F	F	F		F	F	F	F	F	DL	F	F	F																							
+																											DT																										F																											
+																											F																										F																											
+																											F																										F																											
+																											F																										F																											
+																											F																										F																											

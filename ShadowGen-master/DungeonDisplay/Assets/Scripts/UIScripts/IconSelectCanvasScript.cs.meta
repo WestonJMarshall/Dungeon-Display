@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 526cf01e27440a041a07babe55547abb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pageNumberText: {instanceID: 0}
+  - iconButtonPrefab: {instanceID: 0}
+  - selectionPanel: {instanceID: 0}
+  - inputObject: {instanceID: 0}
+  - hoveredButton: {instanceID: 0}
+  - directorySprite: {fileID: 21300000, guid: dba0696d6eb124f05bca367a64de16bf, type: 3}
+  - returnSprite: {fileID: 21300000, guid: d95a8198c67ed4f469bb87a5e2928768, type: 3}
+  - lastUsedSpriteButton: {instanceID: 0}
+  - lastUsedSpriteTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
